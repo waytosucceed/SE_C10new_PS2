@@ -1,0 +1,202 @@
+{
+  "heading": "Addition and Subtraction of Like Fractions",
+  "topics": [
+    {
+      "heading": "Addition and Subtraction of Like Fractions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Subtract: 1¾ - ⅝",
+          "options": [
+            {
+              "text": "1⅛"
+            },
+            {
+              "text": "1¼"
+            },
+            {
+              "text": "1⅖"
+            },
+            {
+              "text": "1⅔"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 2,
+          "question": "From the given fractions, what is the sum of the unlike fractions: ⅘, ³⁄₁₀, ⁹⁄₁₀, ⁷⁄₁₀, ²⁄₉?",
+          "options": [
+            {
+              "text": "¹¹⁄₄₅"
+            },
+            {
+              "text": "²³⁄₄₅"
+            },
+            {
+              "text": "²⁶⁄₄₅"
+            },
+            {
+              "text": "⁵⁄₄₅"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "From the given fractions, what is the sum of the like fractions: ⁵⁄₈, ³⁄₁₂, ⁷⁄₈, ⁹⁄₁₅, ¹²⁄₁₇?",
+          "options": [
+            {
+              "text": "⅔"
+            },
+            {
+              "text": "³⁄₂"
+            },
+            {
+              "text": "¾"
+            },
+            {
+              "text": "⁴⁄₅"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          "question": "Mrs. Soni bought 7½ litres of milk and used 5¾ litres. How much milk is left?",
+          "options": [
+            {
+              "text": "1⅓ litres"
+            },
+            {
+              "text": "1¾ litres"
+            },
+            {
+              "text": "2 litres"
+            },
+            {
+              "text": "2½ litres"
+            }
+          ],
+          "answer": 1
+        },
+        
+          {
+            "questionNo": 5,
+            "question": "How much more is 2½ than 1¼?",
+            "options": [
+              {
+                "text": "⁵⁄₄"
+              },
+              {
+                "text": "¾"
+              },
+              {
+                "text": "⁷⁄₄"
+              },
+              {
+                "text": "⁶⁄₄"
+              }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 6,
+            "question": "A fraction has numerator double that of ⁴⁄₅, and denominator same as 5. What is the sum of the original and new fraction?",
+            "options": [
+              {
+                "text": "¹⁶⁄₅"
+              },
+              {
+                "text": "⁸⁄₅"
+              },
+              {
+                "text": "⁴⁄₅"
+              },
+              {
+                "text": "¹²⁄₅"
+              }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 7,
+            "question": "A bucket holds 9 litres of juice. Tania poured out 3¼ litres and then added back 2½ litres. How much juice is in the bucket now?",
+            "options": [
+              {
+                "text": "8¾"
+              },
+              {
+                "text": "7¼"
+              },
+              {
+                "text": "6½"
+              },
+              {
+                "text": "7½"
+              }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 8,
+            "question": "A fraction is ⁶⁄₁₀. Another fraction has half the numerator and triple the denominator. What is the sum of these two fractions?",
+            "options": [
+              {
+                "text": "¹⁹⁄₃₀"
+              },
+              {
+                "text": "¹⁸⁄₃₀"
+              },
+              {
+                "text": "⁷⁄₁₀"
+              },
+              {
+                "text": "²⁰⁄₃₀"
+              }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 9,
+            "question": "Aarav, Noor, and Junaid shared a bowl of soup. Aarav had ²⁄₁₀, Noor had ½, and Junaid had ³⁄₁₀. Which statements are correct?<ul><li> They finished the bowl.</li><li>Aarav had the least.</li><li> Noor and Junaid had equal amounts.</li></ul>",
+            "options": [
+              {
+                "text": "Statements 1 and 2 only"
+              },
+              {
+                "text": "Statements 2 and 3 only"
+              },
+              {
+                "text": "Statement 1 only"
+              },
+              {
+                "text": "All statements"
+              }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 10,
+            "question": "Which of these statements is/are correct?<br> P: Two-thirds + two-thirds is more than three and five-thirds.<br> Q: Five minus seven-thirds is more than seven-thirds.<br> R: Nine over one is more than eleven over one.",
+            "options": [
+              {
+                "text": "Statement P only"
+              },
+              {
+                "text": "Statement Q only"
+              },
+              {
+                "text": "Statements P and Q only"
+              },
+              {
+                "text": "Statements Q and R only"
+              }
+            ],
+            "answer": 1
+          }
+        
+      ]
+    }
+  ]
+}
